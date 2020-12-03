@@ -12,3 +12,8 @@
 .nav-nome {
 	color: white;
 }
+
+.nav-nome:hover {
+	color: white;
+	cursor: default;
+}
