@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.bg-quantum {
+	background-color: #111111;
+}
+
+.login {
+	width: 30%;
+	margin: 2em auto;
+}
+ 
