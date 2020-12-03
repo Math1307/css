@@ -17,3 +17,8 @@
 	color: white;
 	cursor: default;
 }
+
+.list-livros {
+	width: 60%;
+	margin: 2em auto;
+}
